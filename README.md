@@ -6,3 +6,6 @@
 2. open terminal at the path where app.py is located
 3. run following command `python -m streamlit run app.py`
 
+<br>
+
+## App link: https://vishwas-lms.streamlit.app
